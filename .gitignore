@@ -1,0 +1,23 @@
+# MacOS
+.DS_STORE
+
+# Editors / IDEs
+.idea
+.project
+.classpath
+
+# Gradle Related files
+.gradle
+**/build/
+!src/**/build/
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+.gradletasknamecache
+
+# JVM
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
